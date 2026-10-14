@@ -1,5 +1,7 @@
 
 
+This is added by user 1 on filetext
+
 This is a text file created using touch command
 
 Added this from second user for file trainingtwo
