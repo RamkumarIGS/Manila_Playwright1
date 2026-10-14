@@ -1,9 +1,10 @@
+
 This is to demostracte the manual merge
 
+This is a changes from second user - Ramkumar Sivanandan.
 This is added by user 1 on filetext
 
 This is a teestxt file created using touch command
-
-Added again Added this from second user for file trainingtwo
+Added this from second user for file trainingtwo
 
 
